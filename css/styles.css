@@ -1,0 +1,21 @@
+h2 {
+  text-align: center;
+}
+
+.go {
+  text-align: center;
+  list-style-type: none;
+}
+
+.stay {
+  text-align: center;
+  list-style-type: none;
+}
+
+h3.go {
+  color: red;
+}
+
+h3.stay {
+  color: green;
+}
